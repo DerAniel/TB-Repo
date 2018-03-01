@@ -1,4 +1,3 @@
 vektor <- c(1,2,3)
 
-doppel <- vektor+vektor+vektor
-dada
+doppel <- vektor+vektor
