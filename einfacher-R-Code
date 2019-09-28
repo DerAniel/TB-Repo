@@ -1,3 +1,5 @@
 vektor <- c(1,2,3)
 
 doppel <- vektor+vektor
+
+trippel <- doppel+vektor
